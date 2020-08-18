@@ -16,7 +16,7 @@ const monitoring = {
     name: "LastCraft",
   }, {
     address: "mc.litecloud.me",
-    name: "LiteCloud.me",
+    name: "LiteCloud",
   }],
   total: {
     name: "Total Online"
