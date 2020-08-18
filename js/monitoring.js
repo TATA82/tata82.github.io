@@ -2,7 +2,7 @@ const monitoring = {
   servers: [{
     address: "mc.chupacraft.ru",
     name: "ChupaCraft",
-    }, {
+  }, {
     address: "mineverse.com",
     name: "Mineverse",
   }, {
