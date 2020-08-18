@@ -1,18 +1,8 @@
 const monitoring = {
   servers: [{
-    address: "play.minesuperior.com",
-    port: "", // Optional
-    name: "play.minesuperior.com",
-  }, {
-    address: "mineverse.com",
-    name: "Mineverse",
-  }, {
-    address: "mc.hypixel.net",
-    name: "Hypixel",
-  }, {
-    address: "128.0.0.1",
-    port: "25567",
-    name: "Error test",
+    address: "mc.chupacraft.ru",
+    port: "25565",
+    name: "ChupaCraft",
   }],
   total: {
     name: "Total Online"
