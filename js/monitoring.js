@@ -1,8 +1,22 @@
 const monitoring = {
   servers: [{
     address: "mc.chupacraft.ru",
-    port: "25565",
     name: "ChupaCraft",
+    }, {
+    address: "mineverse.com",
+    name: "Mineverse",
+  }, {
+    address: "mc.hypixel.net",
+    name: "Hypixel",
+  }, {
+    address: "main-pixel.ru",
+    name: "Main-Pixel",
+  }, {
+    address: "play.lastcraft.net",
+    name: "LastCraft",
+  }, {
+    address: "mc.litecloud.me",
+    name: "LiteCloud.me",
   }],
   total: {
     name: "Total Online"
