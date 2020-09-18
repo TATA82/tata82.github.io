@@ -17,6 +17,12 @@ const monitoring = {
   }, {
     address: "mc.litecloud.me",
     name: "LiteCloud",
+  }, {
+    address: "VimeWorld.com",
+    name: "VimeWorld",
+  }, {
+    address: "45.93.200.22:25597",
+    name: "Liveria 2.0",
   }],
   total: {
     name: "Total Online"
